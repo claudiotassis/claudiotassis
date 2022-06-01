@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 <!--
 **claudiotassis/claudiotassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
