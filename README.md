@@ -1,5 +1,4 @@
-### Hi there 👋
-profile-3d-contrib/profile-green.svg
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
 <!--
 **claudiotassis/claudiotassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
