@@ -5,7 +5,7 @@
 
 [![Twitter: Cl4ud10_BR](https://img.shields.io/twitter/follow/Cl4ud10_BR?style=social)](https://twitter.com/Cl4ud10_BR)
 [![Linkedin: claudio-tassis-6256b843](https://img.shields.io/badge/-claudio-tassis--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/claudio-tassis-6256b843/)](https://www.linkedin.com/in/claudio-tassis-6256b843/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub claudiotassis](https://img.shields.io/github/followers/claudiotassis?label=follow&style=social)](https://github.com/claudiotassis)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
