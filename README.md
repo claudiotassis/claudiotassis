@@ -16,12 +16,14 @@ const Cl4ud10 = {
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning"],
   techCommunities: {
                         coorganizer: "Brazilian",
                         speaker: "Portuguese && English",
                         mentor: "Alura"
                       },
  challenge: "I am focused on studying and becoming a coder"
+    print("Thanks for dropping by, hope you find some of my work interesting.")
 }
 ```
 
