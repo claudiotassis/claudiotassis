@@ -34,7 +34,7 @@ const Cl4ud10 = {
 ![](./profile-3d-contrib/profile-gitblock.svg)
 ---
 ## 😄 Social Media
-[![My Skills](https://skillicons.dev/icons?i=discord)](www.discordapp.com/users/CLAUDIOTASSIS#3857)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/CLAUDIO%20TASSIS#3857)
 
 
 
