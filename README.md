@@ -32,6 +32,18 @@ const Cl4ud10 = {
 ---
 ## ⌛ My Contribuitions Calendar
 ![](./profile-3d-contrib/profile-gitblock.svg)
+---
+## 🔧 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,angular,azure,discord,django,dotnet,github,instagram,java,linkedin,linux,nodejs,php,py,unreal,vscode,wordpress)](https://skillicons.dev)
+
+
+
+
+
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=claudiotassis&row=1)](https://github.com/claudiotassis/github-profile-trophy)
+
 <!--
 
 
