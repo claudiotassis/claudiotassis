@@ -35,6 +35,9 @@ const Cl4ud10 = {
 ---
 ## 😄 Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/CLAUDIO%20TASSIS#3857)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/claudio.tassis/)
+[![My Skills](https://www.pngwing.com/pt/free-png-bbwse)](https://www.facebook.com/cl4ud1ot4ss1s/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Cl4ud10_BR)
 
 
 
