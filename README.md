@@ -1,12 +1,13 @@
-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/65249675/171521801-467347bb-f732-40ec-9597-5d9aed00dced.gif)
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/65249675/171522048-3f34d89c-864c-4749-a101-e83b830419e9.gif)
 
 
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
+
+
+
+![](./profile-3d-contrib/profile-night-green.svg)
 <!--
 **claudiotassis/claudiotassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
