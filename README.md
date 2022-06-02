@@ -1,5 +1,5 @@
 <h2> Hi, I'm Claudio Tassis (Cl4ud10 T4551S) <img src="/gifs/gif1.gif" width="150"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' <img src="/gifs/gif2.gif" width="230">
 <p><em>English Teacher at <a href="https://www.salesianos.br/unidade/colegio-salesiano-jardim-camburi">Salesiano</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning to code at <a href="https://www.alura.com.br/">Alura</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -11,17 +11,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const Cl4ud10 = {
+  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "Brazilian",
+                        speaker: "Portuguese && English",
+                        mentor: "Alura"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am focused on studying and becoming a coder"
 }
 ```
 
@@ -33,7 +33,7 @@ const thai = {
 
 
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 <!--
 **claudiotassis/claudiotassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
