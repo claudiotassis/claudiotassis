@@ -33,8 +33,8 @@ const Cl4ud10 = {
 ## ⌛ My Contribuitions Calendar
 ![](./profile-3d-contrib/profile-gitblock.svg)
 ---
-## 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,angular,azure,discord,django,dotnet,github,instagram,java,linkedin,linux,nodejs,php,py,unreal,vscode,wordpress)](https://skillicons.dev)
+## 😄 Social Media
+[![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linkedin,twitter)](https://skillicons.dev)
 
 
 
@@ -52,7 +52,7 @@ const Cl4ud10 = {
 **claudiotassis/claudiotassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🔧
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
