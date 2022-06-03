@@ -36,8 +36,33 @@ const Cl4ud10 = {
 ## 😄 Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/CLAUDIO%20TASSIS#3857)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/claudio.tassis/)
-[![My Skills](/gifs/facebook.png)](https://www.facebook.com/cl4ud1ot4ss1s/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Cl4ud10_BR)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/claudio-tassis-6256b843/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.https://github.com/claudiotassis)
+
+---
+## 👨‍🎓 Learning
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.https://github.com/claudiotassis)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+![My Skills](https://skillicons.dev/icons?i=css)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java/)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://pt-br.reactjs.org/)
+
+
+
+---
+## 💬 Previously worked with
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://angular.io/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://angular.io/)
+[![My Skills](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
+![My Skills](https://skillicons.dev/icons?i=linux)
 
 
 
