@@ -72,6 +72,17 @@ const Cl4ud10 = {
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=claudiotassis&row=1)](https://github.com/claudiotassis/github-profile-trophy)
 
+---
+
+[![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
+
+
 <!--
 
 
