@@ -1,5 +1,5 @@
 <h2> Hi, I'm Claudio Tassis (Cl4ud10 T4551S) <img src="/gifs/gif1.gif" width="150"></h2>
-<img align='right' <img src="/gifs/gif2.gif" width="230">
+<img align='right' <img src="/gifs/gif2.gif" width="100">
 <p><em>English Teacher at <a href="https://www.salesianos.br/unidade/colegio-salesiano-jardim-camburi">Salesiano</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning to code at <a href="https://www.alura.com.br/">Alura</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
