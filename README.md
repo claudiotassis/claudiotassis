@@ -54,7 +54,7 @@ const Cl4ud10 = {
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://pt-br.reactjs.org/)
-
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 
 ---
