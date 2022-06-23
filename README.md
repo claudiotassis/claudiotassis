@@ -13,10 +13,10 @@
 ```javascript
 const Cl4ud10 = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, PHP],
+  tools: [VsCode, Figma, node.Js, GitHub],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning"],
+  askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning", "beer and bbq"],
   techCommunities: {
                         coorganizer: "Brazilian",
                         speaker: "Portuguese && English",
