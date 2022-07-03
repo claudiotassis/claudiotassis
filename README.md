@@ -13,9 +13,8 @@
 ```javascript
 const Cl4ud10 = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [VsCode, Figma, node.Js, GitHub],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, HTML, CSS, PHP],
+  tools: [VsCode, Figma, Node.Js, GitHub], 
   askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning", "beer and bbq"],
   techCommunities: {
                         coorganizer: "Brazilian",
