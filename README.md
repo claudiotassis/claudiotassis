@@ -13,9 +13,11 @@
 ```javascript
 const Cl4ud10 = {
   pronouns: "He" | "Him",
+  profession: "English Teacher,
   code: [Javascript, HTML, CSS, PHP],
   tools: [VsCode, Figma, Node.Js, GitHub], 
   askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning", "beer and bbq"],
+  softSkills: [resilience, custumer-driven, organization and time management, conflicts mediation, public speaking, critical thinking, group work],
   techCommunities: {
                         coorganizer: "Brazilian",
                         speaker: "Portuguese && English",
