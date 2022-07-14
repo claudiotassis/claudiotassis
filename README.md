@@ -4,7 +4,7 @@
      
 * [📊My Contribuitions Calendar](#my-contribuitions-calendar)
      
-* [⚙️Tools](#funciona-porra)
+* [⚙️Tools](#tools)
      
 * [Post-Job Briefing](https://github.com/hillaryfraley/jobbriefings#job-briefing)  
      - [Post-Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
@@ -80,7 +80,7 @@ const Cl4ud10 = {
 <br />
 <br />
 
-##⚙️ Funciona Porra
+## ⚙ Tools
 ---
 ---
 
