@@ -18,24 +18,9 @@
 * [Related Work Practices](https://github.com/hillaryfraley/jobbriefings#related-work-practices)
 * [Related Documents and Forms](https://github.com/hillaryfraley/jobbriefings#related-documents-and-forms)
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 ---
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -76,9 +61,8 @@ const Cl4ud10 = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!</b> :)</em>
 
 
-
-```
-```
+<br />
+<br />
 
 
 ---
@@ -87,8 +71,8 @@ const Cl4ud10 = {
 ## 📊My Contribuitions Calendar
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-```
-```
+<br />
+<br />
 ---
 ---
 ## ⚙️Tools
@@ -125,11 +109,12 @@ const Cl4ud10 = {
 
 
 
-```
-```
+<br />
+<br />
+<br />
+<br />
 
-```
-```
+
 ---
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=claudiotassis&row=1)](https://github.com/claudiotassis/github-profile-trophy)
