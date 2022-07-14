@@ -9,7 +9,7 @@
      - [👨‍🎓 Learning]
      - [💬 Previously worked with]
           
-* [📈 Stats](#stats)  
+* [📈Stats](#stats)  
      - [Post-Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
      - [Post-Job Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#job-briefing-documentation)
 
@@ -134,7 +134,7 @@ const Cl4ud10 = {
 
 ```
 ```
-## 📈 Stats
+## Stats
 ---
 [![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
