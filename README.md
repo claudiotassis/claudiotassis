@@ -5,8 +5,7 @@
 * [📊My Contribuitions Calendar](#my-contribuitions-calendar)
      
 * [⚙️Tools](#tools)
-     - [Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
-     - [Job Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#job-briefing-documentation)
+     
 * [Post-Job Briefing](https://github.com/hillaryfraley/jobbriefings#job-briefing)  
      - [Post-Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
      - [Post-Job Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#job-briefing-documentation)
