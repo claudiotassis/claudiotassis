@@ -19,8 +19,6 @@
 * [Related Documents and Forms](https://github.com/hillaryfraley/jobbriefings#related-documents-and-forms)
 
 
----
----
 <br />
 <br />
 
@@ -68,13 +66,20 @@ const Cl4ud10 = {
 ---
 ---
 
+<br />
+<br />
+
 ## 📊My Contribuitions Calendar
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <br />
 <br />
 
+---
+---
 
+<br />
+<br />
 
 ## ⚙️Tools
 
@@ -130,6 +135,12 @@ const Cl4ud10 = {
 
 ---
 ---
+
+<br />
+<br />
+<br />
+<br />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=claudiotassis&row=1)](https://github.com/claudiotassis/github-profile-trophy)
 
 ```
