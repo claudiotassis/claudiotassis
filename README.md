@@ -4,7 +4,7 @@
      
 * [📊My Contribuitions Calendar](#my-contribuitions-calendar)
      
-* [⚙️My Tools](#my-tools)
+* [⚙️Tools](#tools)
      - [Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
      - [Job Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#job-briefing-documentation)
 * [Post-Job Briefing](https://github.com/hillaryfraley/jobbriefings#job-briefing)  
@@ -72,7 +72,7 @@ const Cl4ud10 = {
 ```
 ---
 ---
-## ⚙️My Tools
+## ⚙️Tools
 
 ## 😄 Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/CLAUDIO%20TASSIS#3857)
