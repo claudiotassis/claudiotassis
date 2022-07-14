@@ -127,18 +127,7 @@ const Cl4ud10 = {
 
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=claudiotassis&row=1)](https://github.com/claudiotassis/github-profile-trophy)
 
 ```
 ```
@@ -153,7 +142,7 @@ const Cl4ud10 = {
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=claudiotassis&row=1)](https://github.com/claudiotassis/github-profile-trophy)
 
 <!--
 
