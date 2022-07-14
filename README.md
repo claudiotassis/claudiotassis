@@ -82,7 +82,6 @@ const Cl4ud10 = {
 
 ## ⚙️Tools
 
-<br />
 
 ## 😄 Social Media
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/CLAUDIO%20TASSIS#3857)
