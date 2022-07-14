@@ -31,6 +31,10 @@
 
 ---
 ---
+<br />
+<br />
+<br />
+
 ## 🙋About Me
 <h2> Hi, I'm Claudio Tassis (Cl4ud10 T4551S) <img src="/gifs/gif1.gif" width="150"></h2>
 <img align='right' <img src="/gifs/gif2.gif" width="100">
