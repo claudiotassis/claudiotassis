@@ -108,7 +108,7 @@ const Cl4ud10 = {
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 ![My Skills](https://skillicons.dev/icons?i=css)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java/)
-[![My Skills](https://user-images.githubusercontent.com/65249675/179405348-0af419a4-751d-411c-8ce6-508ad5ab8072.png)
+![179405348-0af419a4-751d-411c-8ce6-508ad5ab8072](https://user-images.githubusercontent.com/65249675/180324206-27ef52de-8097-4de4-a8d9-d34aea96e2bd.png)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://pt-br.reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
