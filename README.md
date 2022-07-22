@@ -43,7 +43,7 @@
 const Cl4ud10 = {
   pronouns: "He" | "Him",
   profession: "English Teacher,
-  code: [Javascript, HTML, CSS, PHP],
+  code: [Javascript, Directus, HTML, CSS, PHP],
   tools: [VsCode, Figma, Node.Js, GitHub], 
   askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning", "beer and bbq"],
   softSkills: [resilience, custumer-driven, organization and time management, conflicts mediation, public speaking, critical thinking, group work],
@@ -105,7 +105,7 @@ const Cl4ud10 = {
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.https://github.com/claudiotassis)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 ![My Skills](https://skillicons.dev/icons?i=css)
-![179405348-0af419a4-751d-411c-8ce6-508ad5ab8072](https://user-images.githubusercontent.com/65249675/180324206-27ef52de-8097-4de4-a8d9-d34aea96e2bd.png)
+![image (1)](https://user-images.githubusercontent.com/65249675/180447803-028524e2-fbec-4be7-872b-eab20172d2bb.png)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 ---
