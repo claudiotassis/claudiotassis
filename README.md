@@ -11,15 +11,9 @@
      - [💬 Previously worked with]
           
 * [📈Stats](#stats)  
-     - [Post-Job Briefing Requirements](https://github.com/hillaryfraley/jobbriefings#job-briefing-requirements)
-     - [Post-Job Briefing Documentation](https://github.com/hillaryfraley/jobbriefings#job-briefing-documentation)
+    
 
-[References](https://github.com/hillaryfraley/jobbriefings#references)
- 
-* [Laws and Regulations](https://github.com/hillaryfraley/jobbriefings#laws-and-regulations)
-* [Technical Information](https://github.com/hillaryfraley/jobbriefings#technical-information)
-* [Related Work Practices](https://github.com/hillaryfraley/jobbriefings#related-work-practices)
-* [Related Documents and Forms](https://github.com/hillaryfraley/jobbriefings#related-documents-and-forms)
+
 
 
 <br />
@@ -117,6 +111,7 @@ const Cl4ud10 = {
 [![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://pt-br.reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 
 
