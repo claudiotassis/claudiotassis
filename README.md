@@ -7,6 +7,7 @@
 * [⚙️Tools](#tools)
      - [😄 Social Media]
      - [👨‍🎓 Learning]
+     - [👨‍🎓 To be learnt]
      - [💬 Previously worked with]
           
 * [📈Stats](#stats)  
