@@ -40,7 +40,7 @@ const Cl4ud10 = {
   code: [Javascript, Directus, HTML, CSS, PHP],
   tools: [VsCode, Figma, Postman, GitHub], 
   askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning", "beer and bbq"],
-  softSkills: [resilience, custumer-driven, organization and time management, conflicts mediation, public speaking, critical thinking, group work],
+  softSkills: [resilience, customer-driven, organization and time management, conflicts mediation, public speaking, critical thinking, group work],
   techCommunities: {
                         coorganizer: "Brazilian",
                         speaker: "Portuguese && English",
