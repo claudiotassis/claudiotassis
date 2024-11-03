@@ -1,5 +1,4 @@
 ### Table of Contents <img src="https://user-images.githubusercontent.com/65249675/178855994-e0fe60d2-7ded-472e-a761-1ae0f1f98b09.png" width="25">
-
 * [🙋About Me](#about-me)
      
 * [📊My Contribuitions Calendar](#my-contribuitions-calendar)
@@ -7,13 +6,13 @@
 * [⚙️Tools](#tools)
      - [😄 Social Media]
      - [👨‍🎓 Learning]
-     - [👨‍🎓 To be learnt]
+     - [👨‍🎓 To be learned]
      - [💬 Previously worked with]
           
 * [📈Stats](#stats)  
     
 
-
+<a href="https://app.rocketseat.com.br/me/cl-4-ud-10-t-4551-s-06682"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cl-4-ud-10-t-4551-s-06682&type=card" width="280" alt="Claudio Silva de Tassis's Rocket ID"/></a>
 
 
 <br />
