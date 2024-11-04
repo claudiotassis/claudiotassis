@@ -11,10 +11,6 @@
           
 * [📈Stats](#stats)  
     
-
-<a href="https://app.rocketseat.com.br/me/cl-4-ud-10-t-4551-s-06682"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=cl-4-ud-10-t-4551-s-06682&type=card" width="280" alt="Claudio Silva de Tassis's Rocket ID"/></a>
-
-
 <br />
 <br />
 
