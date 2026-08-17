@@ -1,155 +1,138 @@
-### Table of Contents <img src="https://user-images.githubusercontent.com/65249675/178855994-e0fe60d2-7ded-472e-a761-1ae0f1f98b09.png" width="25">
-* [🙋About Me](#about-me)
-     
-* [📊My Contribuitions Calendar](#my-contribuitions-calendar)
-     
-* [⚙️Tools](#tools)
-     - [😄 Social Media]
-     - [👨‍🎓 Learning]
-     - [👨‍🎓 To be learned]
-     - [💬 Previously worked with]
-          
-* [📈Stats](#stats)  
-    
-<br />
-<br />
+<div align="center">
+  <img src="./assets/hero-3d.svg" alt="Claudio Tassis — banner 3D isométrico animado" width="100%" />
+</div>
 
-## 🙋About Me
-<h2> Hi, I'm Claudio Tassis (Cl4ud10 T4551S) <img src="/gifs/gif1.gif" width="150"></h2>
-<img align='right' <img src="/gifs/gif2.gif" width="100">
-<p><em>English Teacher at <a href="https://www.salesianos.br/unidade/colegio-salesiano-jardim-camburi">Salesiano</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning to code at <a href="https://www.alura.com.br/">Alura</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer;SaaS+%2B+AI+for+teachers;English+Teacher+%26+Maker;Vit%C3%B3ria+%C2%B7+ES+%C2%B7+Brazil" alt="Typing animation" />
+</div>
 
+<div align="center">
 
+[![GitHub followers](https://img.shields.io/github/followers/claudiotassis?style=for-the-badge&logo=github&color=0ea5e9)](https://github.com/claudiotassis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-claudio--tassis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-tassis/)
+[![Profile views](https://komarev.com/ghpvc/?username=claudiotassis&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)](https://github.com/claudiotassis)
+[![Location](https://img.shields.io/badge/Vitória--ES-Brazil-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Vit%C3%B3ria,+ES)
 
-[![Twitter: Cl4ud10_BR](https://img.shields.io/twitter/follow/Cl4ud10_BR?style=social)](https://twitter.com/Cl4ud10_BR)
-[![Linkedin: claudio-tassis-6256b843](https://img.shields.io/badge/-claudio-tassis--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/claudio-tassis-6256b843/)](https://www.linkedin.com/in/claudio-tassis-6256b843/)
-[![GitHub claudiotassis](https://img.shields.io/github/followers/claudiotassis?label=follow&style=social)](https://github.com/claudiotassis)
+</div>
 
+<img src="./assets/scroll-hint.svg" alt="Scroll down 3D" width="100%" />
 
+## About me
 
-```javascript
-const Cl4ud10 = {
-  pronouns: "He" | "Him",
-  profession: "English Teacher,
-  code: [Javascript, Directus, HTML, CSS, PHP],
-  tools: [VsCode, Figma, Postman, GitHub], 
-  askMeAbout: ["web dev", "tech", "app dev", "music", "english teaching/learning", "beer and bbq"],
-  softSkills: [resilience, customer-driven, organization and time management, conflicts mediation, public speaking, critical thinking, group work],
-  techCommunities: {
-                        coorganizer: "Brazilian",
-                        speaker: "Portuguese && English",
-                        mentor: "Alura"
-                      },
- challenge: "I am focused on studying and becoming a coder"
-    print("Thanks for dropping by, hope you find some of my work interesting.")
-}
+Professor de inglês, engenheiro full stack e criador de produtos. Construo SaaS com IA para a educação — e ainda acho tempo para música, churrasco e um café forte.
+
+Pai do Benjamin · marido da Andressa · baseado em Vitória, ES.
+
+```js
+const claudio = {
+  name: "Claudio Tassis",
+  aka: "Cl4ud10 T4551S",
+  pronouns: "he/him",
+  role: ["Full Stack Engineer", "English Teacher", "SaaS founder"],
+  location: "Vitória · ES · Brazil",
+  building: ["Planeja.ai", "TeachersHub"],
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
+  askMeAbout: ["web dev", "AI for education", "teaching English", "music", "churrasco"],
+  languages: ["pt-BR", "en"],
+  ping: "sempre aberto a um oi 👋",
+};
 ```
 
+<div align="center">
 
+[![Instagram](https://img.shields.io/badge/Instagram-claudio.tassis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudio.tassis/)
+[![X](https://img.shields.io/badge/X-Cl4ud10__BR-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Cl4ud10_BR)
+[![GitHub](https://img.shields.io/badge/GitHub-claudiotassis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudiotassis)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!</b> :)</em>
+</div>
 
+<img src="./assets/scroll-hint.svg" alt="" width="100%" />
 
-<br />
-<br />
+## What I build
 
+| Product | What it is |
+| --- | --- |
+| **[Planeja.ai](https://planeja.ai)** | Plataforma com IA para a rotina de professores — planejamento, questões e materiais. |
+| **TeachersHub** | Ecossistema de ensino de inglês: metodologia, cursos e experiência do aluno. |
+| **[Organizador de Grupos](https://organizador-grupos.vercel.app)** | Ferramenta web para organizar grupos (sala de aula / turma). |
+| **[English Assessment](https://github.com/claudiotassis/english-assessment-system)** | Sistema de quiz / avaliação de inglês. |
 
----
----
+<img src="./assets/world-3d.svg" alt="Cidade 3D isométrica animada — fly-through" width="100%" />
 
-<br />
-<br />
+## Stack
 
-## 📊My Contribuitions Calendar
-![](./profile-3d-contrib/profile-gitblock.svg)
+**Daily driver**
 
-<br />
-<br />
+[![TypeScript](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,git)](https://skillicons.dev)
 
----
----
+**Design & tooling**
 
-<br />
-<br />
+[![Tools](https://skillicons.dev/icons?i=html,css,figma,vscode,postman,linux,vercel,github)](https://skillicons.dev)
 
-## ⚙Tools
+**Also in the toolbox**
 
-<br />
+[![More](https://skillicons.dev/icons?i=php,wordpress,python,mysql,docker,aws)](https://skillicons.dev)
 
-## 😄 Social Media
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/CLAUDIO%20TASSIS#3857)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/claudio.tassis/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Cl4ud10_BR)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/claudio-tassis-6256b843/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://www.https://github.com/claudiotassis)
+<img src="./assets/scroll-hint.svg" alt="" width="100%" />
 
+## 3D contribution world
 
----
+Calendário de contribuições em perspectiva isométrica — as barras sobem como uma cidade 3D.
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário 3D night rainbow" width="100%" />
+  <br/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Calendário 3D animado" width="100%" />
+</div>
 
-## 👨‍🎓 Learning
-[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-[![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://www.https://github.com/claudiotassis)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-![My Skills](https://skillicons.dev/icons?i=css)
-![image (1)](https://user-images.githubusercontent.com/65249675/180447803-028524e2-fbec-4be7-872b-eab20172d2bb.png)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![Postman](https://user-images.githubusercontent.com/65249675/181136949-a83cc83b-7fbe-4a97-9ff6-c47ae4d95e62.png)](https://www.postman.com/spaceflight-participant-9311916) 
+### Snake
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg" />
+    <img alt="github contribution snake" src="./output/github-snake.svg" />
+  </picture>
+</div>
 
+## Stats
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=claudiotassis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=claudiotassis&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotassis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=claudiotassis&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=claudiotassis&theme=tokyonight&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies" />
+</div>
 
----
+<details>
+<summary>Profile cards</summary>
 
-## 👨‍🎓 To be learnt
-[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.io/)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://dev.java/)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://pt-br.reactjs.org/)
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+<br/>
 
+![details](./profile-summary-card-output/tokyonight/0-profile-details.svg)
+![langs](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![commits](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![stats](./profile-summary-card-output/tokyonight/3-stats.svg)
+![time](./profile-summary-card-output/tokyonight/4-productive-time.svg)
 
-
----
-
-
-## 💬 Previously worked with
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://angular.io/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://angular.io/)
-[![My Skills](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
-![My Skills](https://skillicons.dev/icons?i=linux)
-
-
-
----
----
-
-<br />
-<br />
-
-
-```
-```
-## 📈Stats
----
-[![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/claudiotassis/claudiotassis/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</details>
 
 ---
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=claudiotassis&row=1)](https://github.com/claudiotassis/github-profile-trophy)
-
-<!--
-
-
+<div align="center">
+  <i>Thanks for scrolling the 3D world. If you want to say hi, the door is open.</i>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/claudio-tassis/">LinkedIn</a> ·
+  <a href="https://github.com/claudiotassis">GitHub</a> ·
+  <a href="https://planeja.ai">planeja.ai</a>
+</div>
