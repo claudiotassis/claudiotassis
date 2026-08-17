@@ -119,7 +119,6 @@ Produtos construídos de ponta a ponta. Demo 3D: **[claudiotassis.github.io](htt
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário 3D" width="100%" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Calendário 3D animado" width="100%" />
 </div>
 
 <div align="center">
