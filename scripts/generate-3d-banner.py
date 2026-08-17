@@ -5,7 +5,7 @@ import math
 import random
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parent / "assets"
+OUT = Path(__file__).resolve().parent.parent / "assets"
 OUT.mkdir(exist_ok=True)
 rng = random.Random(4551)
 
@@ -64,12 +64,12 @@ def iso_pos(col: int, row: int, origin_x: float, origin_y: float, size: float) -
 
 
 PALETTES = [
-    ("#67e8f9", "#0891b2", "#155e75"),
-    ("#a78bfa", "#6d28d9", "#4c1d95"),
-    ("#34d399", "#059669", "#064e3b"),
-    ("#38bdf8", "#0284c7", "#0c4a6e"),
-    ("#f0abfc", "#c026d3", "#701a75"),
-    ("#fde047", "#ca8a04", "#713f12"),
+    ("#fde68a", "#d97706", "#78350f"),
+    ("#e8a83c", "#b45309", "#451a03"),
+    ("#fff7ed", "#a8a29e", "#292524"),
+    ("#fbbf24", "#ca8a04", "#713f12"),
+    ("#f59e0b", "#92400e", "#1c1917"),
+    ("#f0b84d", "#c98a2a", "#3f2a0a"),
 ]
 
 
@@ -116,7 +116,7 @@ def stars(n: int, w: int, h: int) -> str:
 
 
 def grid_floor(origin_x: float, origin_y: float, cols: int, rows: int, size: float) -> str:
-    lines = ['<g opacity="0.35" stroke="#22d3ee" stroke-width="0.6" fill="none">']
+    lines = ['<g opacity="0.35" stroke="#e8a83c" stroke-width="0.6" fill="none">']
     hw, hh = size, size * 0.52
     for r in range(rows + 1):
         x1, y1 = iso_pos(0, r, origin_x, origin_y, size)
@@ -134,19 +134,19 @@ HERO = f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" width="1400" height="520" role="img" aria-label="Claudio Tassis 3D profile banner">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="45%" stop-color="#0b1224"/>
-      <stop offset="100%" stop-color="#1e1b4b"/>
+      <stop offset="0%" stop-color="#050506"/>
+      <stop offset="45%" stop-color="#0a0a0b"/>
+      <stop offset="100%" stop-color="#1a1408"/>
     </linearGradient>
     <radialGradient id="glow" cx="50%" cy="28%" r="55%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.28"/>
-      <stop offset="55%" stop-color="#7c3aed" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#020617" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#e8a83c" stop-opacity="0.32"/>
+      <stop offset="55%" stop-color="#c98a2a" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0a0a0b" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#e8a83c" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8a83c" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#e8a83c" stop-opacity="0"/>
     </linearGradient>
     <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="8"/>
@@ -175,26 +175,26 @@ HERO = f'''<?xml version="1.0" encoding="UTF-8"?>
       </g>
     </g>
 
-    <rect x="0" y="0" width="1400" height="188" fill="#020617" opacity="0.22"/>
-    <rect x="0" y="418" width="1400" height="102" fill="#020617" opacity="0.38"/>
+    <rect x="0" y="0" width="1400" height="188" fill="#0a0a0b" opacity="0.22"/>
+    <rect x="0" y="418" width="1400" height="102" fill="#0a0a0b" opacity="0.38"/>
 
     <text x="700" y="72" text-anchor="middle" font-family="Consolas, 'Courier New', monospace"
-      font-size="16" letter-spacing="6" fill="#67e8f9">FULL STACK  ·  EDUCATION  ·  AI</text>
+      font-size="16" letter-spacing="6" fill="#e8a83c">BARCODE LABS  ·  CRAFTED SOLUTIONS</text>
     <text x="700" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
-      font-size="56" font-weight="700" fill="#f8fafc">CLAUDIO TASSIS</text>
+      font-size="56" font-weight="700" fill="#f5f5f0">CLAUDIO TASSIS</text>
     <text x="700" y="162" text-anchor="middle" font-family="Consolas, 'Courier New', monospace"
-      font-size="18" fill="#c4b5fd">Cl4ud10 T4551S  |  Vitoria, ES</text>
+      font-size="18" fill="#f0b84d">Full Stack  |  SaaS  |  Vitoria, ES</text>
 
     <!-- 3D scroll hint -->
     <g transform="translate(700, 455)">
-      <polygon points="0,-18 22,-6 0,6 -22,-6" fill="#22d3ee" opacity="0.95"/>
-      <polygon points="-22,-6 0,6 0,22 -22,10" fill="#0e7490"/>
-      <polygon points="22,-6 0,6 0,22 22,10" fill="#155e75"/>
-      <polyline points="-12,32 0,44 12,32" fill="none" stroke="#e0f2fe" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <polygon points="0,-18 22,-6 0,6 -22,-6" fill="#e8a83c" opacity="0.95"/>
+      <polygon points="-22,-6 0,6 0,22 -22,10" fill="#c98a2a"/>
+      <polygon points="22,-6 0,6 0,22 22,10" fill="#8a5a16"/>
+      <polyline points="-12,32 0,44 12,32" fill="none" stroke="#f5f5f0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
       <animateTransform attributeName="transform" type="translate" values="700,448; 700,468; 700,448" dur="1.8s" repeatCount="indefinite"/>
     </g>
     <text x="700" y="508" text-anchor="middle" font-family="Consolas, 'Courier New', monospace"
-      font-size="12" letter-spacing="4" fill="#94a3b8">SCROLL THE 3D WORLD</text>
+      font-size="12" letter-spacing="4" fill="#a0a0a0">ENTER THE 3D WORLD</text>
   </g>
 </svg>
 '''
@@ -203,16 +203,16 @@ SCROLL = '''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 90" width="1400" height="90">
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#22d3ee" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#e8a83c" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8a83c" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#c98a2a" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <line x1="80" y1="28" x2="1320" y2="28" stroke="url(#fade)" stroke-width="2"/>
   <g transform="translate(700, 48)">
-    <polygon points="0,-14 16,-5 0,5 -16,-5" fill="#67e8f9"/>
-    <polygon points="-16,-5 0,5 0,16 -16,7" fill="#0e7490"/>
-    <polygon points="16,-5 0,5 0,16 16,7" fill="#155e75"/>
+    <polygon points="0,-14 16,-5 0,5 -16,-5" fill="#e8a83c"/>
+    <polygon points="-16,-5 0,5 0,16 -16,7" fill="#c98a2a"/>
+    <polygon points="16,-5 0,5 0,16 16,7" fill="#8a5a16"/>
     <animateTransform attributeName="transform" type="translate" values="700,40; 700,58; 700,40" dur="1.6s" repeatCount="indefinite"/>
   </g>
 </svg>
@@ -225,12 +225,12 @@ WORLD = f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" width="1400" height="420" role="img" aria-label="3D isometric contribution city">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="100%" stop-color="#0f172a"/>
+      <stop offset="0%" stop-color="#050506"/>
+      <stop offset="100%" stop-color="#0a0a0b"/>
     </linearGradient>
     <radialGradient id="spot" cx="50%" cy="40%" r="50%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#020617" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#e8a83c" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#0a0a0b" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="round"><rect width="1400" height="420" rx="24"/></clipPath>
   </defs>

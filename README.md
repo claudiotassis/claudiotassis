@@ -1,91 +1,126 @@
 <div align="center">
-  <img src="./assets/hero-3d.svg" alt="Claudio Tassis — banner 3D isométrico animado" width="100%" />
+  <a href="https://claudiotassis.github.io">
+    <img src="./assets/hero-3d.svg" alt="Claudio Tassis — BarCode Labs 3D world" width="100%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer;SaaS+%2B+AI+for+teachers;English+Teacher+%26+Maker;Vit%C3%B3ria+%C2%B7+ES+%C2%B7+Brazil" alt="Typing animation" />
+  <a href="https://claudiotassis.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E8A83C&center=true&vCenter=true&width=780&lines=Founder+%40+BarCode+Labs;Full+Stack+Engineer;SaaS+in+production;Scroll+the+3D+world" alt="Typing animation" />
+  </a>
 </div>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/claudiotassis?style=for-the-badge&logo=github&color=0ea5e9)](https://github.com/claudiotassis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-claudio--tassis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-tassis/)
-[![Profile views](https://komarev.com/ghpvc/?username=claudiotassis&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)](https://github.com/claudiotassis)
-[![Location](https://img.shields.io/badge/Vitória--ES-Brazil-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Vit%C3%B3ria,+ES)
-
-</div>
-
-<img src="./assets/scroll-hint.svg" alt="Scroll down 3D" width="100%" />
-
-## About me
-
-Professor de inglês, engenheiro full stack e criador de produtos. Construo SaaS com IA para a educação — e ainda acho tempo para música, churrasco e um café forte.
-
-Pai do Benjamin · marido da Andressa · baseado em Vitória, ES.
-
-```js
-const claudio = {
-  name: "Claudio Tassis",
-  aka: "Cl4ud10 T4551S",
-  pronouns: "he/him",
-  role: ["Full Stack Engineer", "English Teacher", "SaaS founder"],
-  location: "Vitória · ES · Brazil",
-  building: ["Planeja.ai", "TeachersHub"],
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
-  askMeAbout: ["web dev", "AI for education", "teaching English", "music", "churrasco"],
-  languages: ["pt-BR", "en"],
-  ping: "sempre aberto a um oi 👋",
-};
-```
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-claudio.tassis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudio.tassis/)
-[![X](https://img.shields.io/badge/X-Cl4ud10__BR-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Cl4ud10_BR)
-[![GitHub](https://img.shields.io/badge/GitHub-claudiotassis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudiotassis)
+[![Enter 3D World](https://img.shields.io/badge/ENTER_THE_3D_WORLD-e8a83c?style=for-the-badge&logo=three.js&logoColor=111)](https://claudiotassis.github.io)
+[![BarCode Labs](https://img.shields.io/badge/BarCode_Labs-0a0a0b?style=for-the-badge&labelColor=e8a83c&color=0a0a0b)](https://barcodelabs.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-tassis/)
+[![Profile views](https://komarev.com/ghpvc/?username=claudiotassis&style=for-the-badge&color=e8a83c&label=PROFILE+VIEWS)](https://github.com/claudiotassis)
 
 </div>
 
 <img src="./assets/scroll-hint.svg" alt="" width="100%" />
 
-## What I build
+## About
 
-| Product | What it is |
-| --- | --- |
-| **[Planeja.ai](https://planeja.ai)** | Plataforma com IA para a rotina de professores — planejamento, questões e materiais. |
-| **TeachersHub** | Ecossistema de ensino de inglês: metodologia, cursos e experiência do aluno. |
-| **[Organizador de Grupos](https://organizador-grupos.vercel.app)** | Ferramenta web para organizar grupos (sala de aula / turma). |
-| **[English Assessment](https://github.com/claudiotassis/english-assessment-system)** | Sistema de quiz / avaliação de inglês. |
+Fundador da **[BarCode Labs](https://barcodelabs.com.br/)** em Vitória, ES. Professor de inglês e engenheiro full stack — produto, frontend, backend, apps mobile e infraestrutura. Código artesanal, SaaS em produção.
 
-<img src="./assets/world-3d.svg" alt="Cidade 3D isométrica animada — fly-through" width="100%" />
+Pai do Benjamin · marido da Andressa.
+
+```js
+const claudio = {
+  studio: "BarCode Labs",
+  role: ["Founder", "Full Stack Engineer"],
+  location: "Vitória · ES · Brazil",
+  shipping: ["Planeja.ai", "Tatame", "NutriBase", "TeachersHub", "Fisio360"],
+  stack: ["TypeScript", "React", "Next.js", "NestJS", "Flutter", "OpenAI"],
+  languages: ["pt-BR", "en"],
+  ping: "claudiotassis@gmail.com",
+};
+```
+
+<img src="./assets/scroll-hint.svg" alt="" width="100%" />
+
+## Portfolio · BarCode Labs
+
+Produtos construídos de ponta a ponta. Demo 3D: **[claudiotassis.github.io](https://claudiotassis.github.io)**
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://planeja.ai">
+        <img src="./portfolio/planeja.jpg" alt="PLANEJA.AI" />
+      </a>
+      <h3><a href="https://planeja.ai">PLANEJA.AI</a></h3>
+      <p>SaaS educacional · questões com IA, correção de redações, Pix / Mercado Pago.<br/>
+      <code>React · Express · Python · MySQL · OpenAI</code></p>
+    </td>
+    <td width="50%">
+      <a href="https://www.tatame.website">
+        <img src="./portfolio/tatame.jpg" alt="TATAME" />
+      </a>
+      <h3><a href="https://www.tatame.website">TATAME</a></h3>
+      <p>SaaS de academias · painel web + app nativo Android/iOS.<br/>
+      <code>React · TypeScript · Flutter · Node.js · MySQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.nutribase.fit">
+        <img src="./portfolio/nutribase.jpg" alt="NutriBase" />
+      </a>
+      <h3><a href="https://www.nutribase.fit">NutriBase</a></h3>
+      <p>SaaS para nutricionistas · agenda, prontuário, planos TACO + IA.<br/>
+      <code>React · NestJS · Prisma · Tailwind · OpenAI</code></p>
+    </td>
+    <td width="50%">
+      <a href="https://www.teachershub.website">
+        <img src="./portfolio/teachershub.jpg" alt="TeachersHub" />
+      </a>
+      <h3><a href="https://www.teachershub.website">TeachersHub</a></h3>
+      <p>SaaS para professores de inglês · aulas com IA e sala ao vivo.<br/>
+      <code>React · NestJS · MySQL · OpenAI · Socket.io</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.fisio360.website">
+        <img src="./portfolio/fisio360.jpg" alt="Fisio360" />
+      </a>
+      <h3><a href="https://www.fisio360.website">Fisio360</a></h3>
+      <p>SaaS para clínicas de fisioterapia · agenda, mapa do corpo, financeiro.<br/>
+      <code>React · NestJS · Prisma · Tailwind</code></p>
+    </td>
+    <td width="50%">
+      <a href="https://barcodelabs.com.br/#portfolio">
+        <img src="./portfolio/ma-manutencao.jpg" alt="M/A Manutenção & Metrologia" />
+      </a>
+      <h3><a href="https://barcodelabs.com.br/#portfolio">M/A Manutenção &amp; Metrologia</a></h3>
+      <p>Site institucional B2B · landing de conversão e captação de orçamentos.<br/>
+      <code>Next.js · TypeScript · Tailwind · Framer Motion</code></p>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/world-3d.svg" alt="Cidade 3D isométrica BarCode Labs" width="100%" />
 
 ## Stack
 
-**Daily driver**
-
-[![TypeScript](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,prisma,git)](https://skillicons.dev)
-
-**Design & tooling**
-
-[![Tools](https://skillicons.dev/icons?i=html,css,figma,vscode,postman,linux,vercel,github)](https://skillicons.dev)
-
-**Also in the toolbox**
-
-[![More](https://skillicons.dev/icons?i=php,wordpress,python,mysql,docker,aws)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mysql,prisma,flutter,git,docker" alt="Daily stack" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,figma,vite,tailwind,py,linux,aws,vercel,github" alt="Tools" />
+</p>
 
 <img src="./assets/scroll-hint.svg" alt="" width="100%" />
 
 ## 3D contribution world
 
-Calendário de contribuições em perspectiva isométrica — as barras sobem como uma cidade 3D.
-
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário 3D night rainbow" width="100%" />
-  <br/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário 3D" width="100%" />
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Calendário 3D animado" width="100%" />
 </div>
-
-### Snake
 
 <div align="center">
   <picture>
@@ -98,20 +133,20 @@ Calendário de contribuições em perspectiva isométrica — as barras sobem co
 ## Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=claudiotassis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=claudiotassis&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=claudiotassis&show_icons=true&theme=amber&hide_border=true&bg_color=0A0A0B&title_color=E8A83C&icon_color=E8A83C&text_color=F5F5F0&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=claudiotassis&theme=dark&hide_border=true&background=0A0A0B&ring=E8A83C&fire=E8A83C&currStreakLabel=E8A83C" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotassis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiotassis&layout=compact&theme=amber&hide_border=true&bg_color=0A0A0B&title_color=E8A83C&text_color=F5F5F0" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=claudiotassis&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=claudiotassis&theme=github-compact&bg_color=0A0A0B&color=E8A83C&line=E8A83C&point=F0B84D&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=claudiotassis&theme=tokyonight&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=claudiotassis&theme=onedark&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies" />
 </div>
 
 <details>
@@ -130,9 +165,8 @@ Calendário de contribuições em perspectiva isométrica — as barras sobem co
 ---
 
 <div align="center">
-  <i>Thanks for scrolling the 3D world. If you want to say hi, the door is open.</i>
-  <br/><br/>
+  <a href="https://claudiotassis.github.io">Enter the 3D world</a> ·
+  <a href="https://barcodelabs.com.br/">BarCode Labs</a> ·
   <a href="https://www.linkedin.com/in/claudio-tassis/">LinkedIn</a> ·
-  <a href="https://github.com/claudiotassis">GitHub</a> ·
-  <a href="https://planeja.ai">planeja.ai</a>
+  <a href="mailto:claudiotassis@gmail.com">claudiotassis@gmail.com</a>
 </div>
