@@ -25,6 +25,8 @@
 
 Fundador da **[BarCode Labs](https://barcodelabs.com.br/)** em Vitória, ES. Professor de inglês e engenheiro full stack — produto, frontend, backend, apps mobile e infraestrutura. Código artesanal, SaaS em produção.
 
+Graduando em **Análise e Desenvolvimento de Sistemas** e formado em **Letras Inglês pela UFES**.
+
 Pai do Benjamin · marido da Andressa.
 
 ```js
